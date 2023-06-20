@@ -1,0 +1,15 @@
+---
+:id: 153043238
+:submitters:
+- :name: Elizabeth Wei
+  :email: eyw@andrew.cmu.edu
+- :name: Rachel Wei
+  :email: rachelwe@andrew.cmu.edu
+- :name: Charly Jin
+  :email: charlyj@andrew.cmu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-12-07 21:17:00.390342000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-12-07 13:17:00.390342000 Z
+:status: processed
